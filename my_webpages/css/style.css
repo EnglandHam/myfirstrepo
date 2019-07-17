@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+}
+
+nav {
+    height: 70px;
+    background-color: lightgrey;
+}
+
+.inline-block {
+    display: inline-block;
+    padding: 25px;
+    background-color: darkgrey;
+}
+
+.left {
+    height: 700px;
+    display: inline-block;
+    background-color: tan;
+    width: 29%;
+    float: left;
+}
+
+.ham {
+    padding: 30px;
+    text-align: center;
+}
+
+#pet_profile {
+    width: 100%;
+}
+
+.right {
+    height: 700px;
+    display: inline-block;
+    background-color: lightgoldenrodyellow;
+    width: 69%;
+    float:left;
+}
+
+#heading_image {
+    width: 20%;
+    padding: 20px;
+    float: left;
+}
+
+.gallery {
+    padding-top: 20px;
+}
+
+/* #first_photo {
+    width: 30%;
+    margin-left: 20px;
+    margin-top: 20px;
+    float: left;
+}
+
+#second_photo {
+    width: 27%;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+#third_photo {
+    width: 20%;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+*/
+
+h1 {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+
+.column {
+    float: left;
+    width: 20%;
+    padding: 20px;
+    
+}
